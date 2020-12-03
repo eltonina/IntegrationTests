@@ -1,0 +1,13 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<RunSettings>
+
+  <!-- Parameters used by tests at runtime -->
+  <TestRunParameters>
+    <Parameter name="ApplicationName" value="EchoServiceGatewayIntegrationTest" />
+    <Parameter name="Echo.UrlService" value="https://postman-echo.com/" />
+    <Parameter name="Echo.ApiKey" value="12345" />
+    <Parameter name="EchoRetry.UrlService" value="https://postman-echo.com/" />
+    <Parameter name="EchoRetry.ApiKey" value="67890" />
+  </TestRunParameters>
+
+</RunSettings>
